@@ -1,0 +1,16 @@
+[
+  {
+    "role": "React Developer",
+    "organisation": "Stamens Software Pvt. Ltd",
+    "startDate": "Aug, 2024",
+    "endDate": "June, 2025",
+    "experiences": ["Learned about UI libraries like MUI and React Flow", "Worked on a live project focused on managing data"]
+  },
+  {
+    "role": "Web Development Intern",
+    "organisation": "Oasis",
+    "startDate": "Jan, 2023",
+    "endDate": "Feb, 2023",
+    "experiences": ["Enhanced the platform’s user interface (UI) to ensure responsiveness across different screen sizes", "Designed several web pages which also helped me improve my CSS skills"]
+  }
+]

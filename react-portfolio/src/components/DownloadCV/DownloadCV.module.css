@@ -1,0 +1,72 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  background-color: rgba(12, 12, 12, 0.6);
+  border-radius: 15px;
+  padding: 73px;
+  margin-top: 100px;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  transition: color 0.3s ease, letter-spacing 0.3s ease, text-shadow 0.3s ease;
+}
+
+.title:hover {
+  color: var(--color-primary);
+  letter-spacing: 2.5px;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  margin-top: 40px;
+}
+
+.downloadImage {
+  width: 100px;
+}
+
+.downloadButton {
+  background-color: var(--color-primary);
+  color: white;
+  padding: 16px 32px;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 12px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.downloadButton:hover {
+  transform: scale(1.05);
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    background-color: transparent;
+    padding: 40px 20px;
+  }
+
+  .downloadImage {
+    width: 80px;
+  }
+
+  .downloadButton {
+    font-size: 18px;
+    padding: 14px 28px;
+  }
+}

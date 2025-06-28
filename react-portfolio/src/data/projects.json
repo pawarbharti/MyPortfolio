@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Pinnacle Window",
+    "imageSrc": "../../../assets/projects/project.png",
+    "description": "Developed a website called Pinnacle Windows, which specializes in selling aluminium and uPVC doors and windows.",
+    "skills": ["React", "MUI", "HTML", "JavaScript"],
+    "demo": "https://pinnaclewindow.in/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "InfiniteHire",
+    "imageSrc": "../../../assets/projects/project.png",
+    "description": "Build a MERN stack Job Portal that enables recruiters to post jobs and candidates to browse and apply seamlessly.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "../../../assets/skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "../../../assets/skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "../../../assets/skills/javascriptt.png"
+  },
+   {
+    "title": "Tailwind CSS",
+    "imageSrc": "../../../assets/skills/tailwind.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "../../../assets/skills/typescript.png"
+  },
+   {
+    "title": "React",
+    "imageSrc": "../../../assets/skills/react.png"
+  },
+   {
+    "title": "UI/UX Design",
+    "imageSrc": "../../../assets/skills/uiux.png"
+  },
+ 
+  {
+    "title": "GraphQL",
+    "imageSrc": "../../../assets/skills/graphql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "../../../assets/skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "../../../assets/skills/figma.png"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "../../../assets/skills/githubb.png"
+  },
+   {
+    "title": "Git",
+    "imageSrc": "../../../assets/skills/git.png"
+  }
+]
