@@ -18,7 +18,7 @@ export const Hero = () => {
       </div>
       <img
        // src={getImageUrl("hero/heroImage.png")}
-       src={"../../../assets/hero/heroImage.png"}
+       src="https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/hero/heroImage.png"
         alt="Hero image of me"
         className={styles.heroImg}
       />

@@ -1,7 +1,7 @@
 [
   {
     "title": "Pinnacle Window",
-    "imageSrc": "../../../assets/projects/infiniteHire.png",
+    "imageSrc": "https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/projects/infiniteHire.png",
     "description": "Developed a website called Pinnacle Windows, which specializes in selling aluminium and uPVC doors and windows.",
     "skills": ["React", "MUI", "HTML", "JavaScript"],
     "demo": "https://pinnaclewindow.in/",
@@ -9,7 +9,7 @@
   },
   {
     "title": "InfiniteHire",
-    "imageSrc": "../../../assets/projects/pinnacle3.png",
+    "imageSrc": "https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/projects/pinnacle3.png",
     "description": "Build a MERN stack Job Portal that enables recruiters to post jobs and candidates to browse and apply seamlessly.",
     "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",

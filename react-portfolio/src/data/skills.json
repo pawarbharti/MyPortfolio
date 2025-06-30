@@ -1,51 +1,51 @@
 [
   {
     "title": "HTML",
-    "imageSrc": "../../../assets/skills/html.png"
+    "imageSrc": "https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/skills/html.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "../../../assets/skills/css.png"
+    "imageSrc": "https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/skills/css.png"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "../../../assets/skills/javascriptt.png"
+    "imageSrc": "https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/skills/javascriptt.png"
   },
    {
     "title": "Tailwind CSS",
-    "imageSrc": "../../../assets/skills/tailwind.png"
+    "imageSrc": "https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/skills/tailwind.png"
   },
   {
     "title": "Typescript",
-    "imageSrc": "../../../assets/skills/typescript.png"
+    "imageSrc": "https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/skills/typescript.png"
   },
    {
     "title": "React",
-    "imageSrc": "../../../assets/skills/react.png"
+    "imageSrc": "https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/skills/react.png"
   },
    {
     "title": "UI/UX Design",
-    "imageSrc": "../../../assets/skills/uiux.png"
+    "imageSrc": "https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/skills/uiux.png"
   },
  
   {
     "title": "GraphQL",
-    "imageSrc": "../../../assets/skills/graphql.png"
+    "imageSrc": "https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/skills/graphql.png"
   },
   {
     "title": "MongoDB",
-    "imageSrc": "../../../assets/skills/mongodb.png"
+    "imageSrc": "https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/skills/mongodb.png"
   },
   {
     "title": "Figma",
-    "imageSrc": "../../../assets/skills/figma.png"
+    "imageSrc": "https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/skills/figma.png"
   },
   {
     "title": "Github",
-    "imageSrc": "../../../assets/skills/githubb.png"
+    "imageSrc": "https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/skills/githubb.png"
   },
    {
     "title": "Git",
-    "imageSrc": "../../../assets/skills/git.png"
+    "imageSrc": "https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/skills/git.png"
   }
 ]

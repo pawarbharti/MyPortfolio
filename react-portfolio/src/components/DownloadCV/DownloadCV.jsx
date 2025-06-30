@@ -7,7 +7,7 @@ export const DownloadCV = () => {
       <h2 className={styles.title}>Download CV</h2>
       <div className={styles.content}>
         <img
-          src={"../../../assets/cv/downloadicon.png"}
+          src="https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/cv/downloadicon.png"
           alt="Download icon"
           className={styles.downloadImage}
         />

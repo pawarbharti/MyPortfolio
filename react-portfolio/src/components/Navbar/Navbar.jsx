@@ -16,8 +16,8 @@ console.log(getImageUrl("nav/menuIcon.png"));
           className={styles.menuBtn}
           src={
             menuOpen
-              ? ("../../../assets/nav/closeIcon.png")
-              : ("../../../assets/nav/menuIcon.png")
+              ? ("https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/nav/closeIcon.png")
+              : ("https://raw.githubusercontent.com/pawarbharti/MyPortfolio/refs/heads/main/react-portfolio/assets/nav/menuIcon.png")
           }
           alt="menu-button"
           onClick={() => setMenuOpen(!menuOpen)}
